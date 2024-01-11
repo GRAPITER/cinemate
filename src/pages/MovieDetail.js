@@ -20,7 +20,7 @@ export const MovieDetail = () => {
 
     }
     movieFetch();
-  }, []);
+  }, [params.id]);
 
   const pageTitle = useTitle(`${movie.title}`)
  

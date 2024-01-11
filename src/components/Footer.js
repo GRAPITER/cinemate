@@ -9,16 +9,16 @@ export const Footer = () => {
         </span>
         <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-100 sm:mt-0">
           <li>
-            <a href="#" target='_blank' className="hover:underline text-gray-700 dark:text-gray-100  hover:text-white me-4 md:me-6">Instagram</a>
+            <a href="https://twitter.com/asjad5968" target='_blank' className="hover:underline text-gray-700 dark:text-gray-100  hover:text-white me-4 md:me-6">Instagram</a>
           </li>
           <li>
-            <a href="#" target='_blank' className="hover:underline text-gray-700 dark:text-gray-100 hover:text-white me-4 md:me-6">LinkedIN</a>
+            <a href="https://www.linkedin.com/in/asjad-ali-6800a4237/" target='_blank' className="hover:underline text-gray-700 dark:text-gray-100 hover:text-white me-4 md:me-6">LinkedIN</a>
           </li>
           <li>
-            <a href="#" target='_blank' className="hover:underline text-gray-700 dark:text-gray-100 hover:text-white me-4 md:me-6">Facebook</a>
+            <a href="https://twitter.com/asjad5968" target='_blank' className="hover:underline text-gray-700 dark:text-gray-100 hover:text-white me-4 md:me-6">Facebook</a>
           </li>
           <li>
-            <a href="#" target='_blank' className="hover:underline text-gray-700 dark:text-gray-100 hover:text-white md:me-6">X</a>
+            <a href="https://twitter.com/asjad5968" target='_blank' className="hover:underline text-gray-700 dark:text-gray-100 hover:text-white md:me-6">X</a>
           </li>
         </ul>
       </div>
