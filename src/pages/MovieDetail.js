@@ -21,9 +21,9 @@ export const MovieDetail = () => {
     }
     movieFetch();
   }, [params.id]);
+  
+  useTitle(`${movie.title}`)
 
-  const pageTitle = useTitle(`${movie.title}`)
- 
   return (
     <main>
       <section className="flex flex-wrap justify-around py-5">
@@ -82,7 +82,7 @@ export const MovieDetail = () => {
 
           </p>
 
-          
+
 
 
 
